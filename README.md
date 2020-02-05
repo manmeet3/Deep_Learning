@@ -1,7 +1,7 @@
-# Deep Learning (258) at San Jose State University
+## Deep Learning CMPE 258 Coursework Repository
 
-## Assignments
+### Assignments
 
-## Homeworks
+### Homeworks
 
-## Project
+### Project
