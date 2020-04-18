@@ -8,3 +8,5 @@ In this paper, various existing frameworks for face data augmentation are review
 which have been reognized as more powerful and effective than traditional tools. Additionally, various evaluation
 metrics for looking at the quality of augmentation are discussed. Lastly, some important challenges in the
 task of face data augmentation are pointed out as well. 
+
+todo: add outline of paper walkthrough by tonight
