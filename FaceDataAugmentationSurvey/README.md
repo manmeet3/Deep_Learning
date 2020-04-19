@@ -35,9 +35,23 @@ Dives into the high level 2D geometry based facial augmentation methods and the 
 5. Agumented Reality
 
 ## Section V. Evaluation metrics
+For qualitative evaluation, the authors directly present the readers or interviewers
+with generated images and let them judge the quality. The
+quantitative evaluation provides quantifiable and explicit results. Most
+of the time, both qualitative and quantitative methods are
+employed together to provide adequate information for the
+evaluation, and suitable evaluation metrics should be applied
+since face data augmentation includes different transformation
+types with different purpose.
 
 ## Section VI. Challenges and Opportunities
+1. Identity Preserving
+2. Disentangled representation -- being able to point apart the augmented vs real data.
+3. Unsupervised Augmentation
+4. GAN improvements
 
 ## Section VII. Discussion
+Talks about accomplishments vs. challenges and potential paths forward
 
 ## Section VIII. Conclusion
+Closing remarks
