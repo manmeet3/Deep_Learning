@@ -25,11 +25,11 @@ There are 3 main areas of facial transofrmations: generic, component and attribu
   
 Section IV: Transformation Methods
 Dives into the high level 2D geometry based facial augmentation methods and the architecture of GANs used to generate augmentation features listed in section III.
-A. Basic Image Processing
-B. Model-based transformation
-C. Realism Enhancement
-D. Generative-based Transformation
-E. Agumented Reality
+1. Basic Image Processing
+2. Model-based transformation
+3. Realism Enhancement
+4. Generative-based Transformation
+5. Agumented Reality
 
 Section V. Evaluation metrics
 
