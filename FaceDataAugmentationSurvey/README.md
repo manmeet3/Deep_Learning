@@ -9,4 +9,32 @@ which have been reognized as more powerful and effective than traditional tools.
 metrics for looking at the quality of augmentation are discussed. Lastly, some important challenges in the
 task of face data augmentation are pointed out as well. 
 
-todo: add outline of paper walkthrough by tonight
+Section III: Augmentation Types
+There are 3 main areas of facial transofrmations: generic, component and attribute. 
+* Generic 
+  * Geometric - rotations, twisting and turning
+  * Photomeretric - playing with RGB channel settings
+* Component Transformation -> Utilizes GANs heavily
+  * Hairstyle
+  * Makeup
+  * Accessory 
+* Attribute
+  * Pose
+  * Expression
+  * Age
+  
+Section IV: Transformation Methods
+Dives into the high level 2D geometry based facial augmentation methods and the architecture of GANs used to generate augmentation features listed in section III.
+A. Basic Image Processing
+B. Model-based transformation
+C. Realism Enhancement
+D. Generative-based Transformation
+E. Agumented Reality
+
+Section V. Evaluation metrics
+
+Section VI. Challenges and Opportunities
+
+Section VII. Discussion
+
+Section VIII. Conclusion
