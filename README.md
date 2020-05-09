@@ -1,1 +1,1 @@
-## Deep Learning CMPE 258 Coursework Repository
+## CMPE 258, Deep Learning, Coursework Repository
