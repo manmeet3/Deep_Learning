@@ -1,4 +1,6 @@
-**[Link to Paper](https://arxiv.org/pdf/1904.11685.pdf)**
+**[Medium Article](https://link.medium.com/gBsAnKEEw6)**
+
+**[Paper](https://arxiv.org/pdf/1904.11685.pdf)**
 
 ## Abstract
 The above survey paper is written by three individuals working at a startup named CloudMinds which offers a PaaS
