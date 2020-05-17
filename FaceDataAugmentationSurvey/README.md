@@ -1,3 +1,5 @@
+**[Video Presentation](https://link.medium.com/gBsAnKEEw6)** TBD
+
 **[Medium Article](https://link.medium.com/gBsAnKEEw6)**
 
 **[Paper](https://arxiv.org/pdf/1904.11685.pdf)**
