@@ -1,4 +1,4 @@
-**[Video Presentation]()** TBD by tonight
+**[Video Presentation](https://youtu.be/XAHEYUh95ko)**
 
 **[Medium Article](https://link.medium.com/gBsAnKEEw6)**
 
