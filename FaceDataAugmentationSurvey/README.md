@@ -1,4 +1,4 @@
-**[Video Presentation](https://link.medium.com/gBsAnKEEw6)** TBD
+**[Video Presentation]()** TBD by tonight
 
 **[Medium Article](https://link.medium.com/gBsAnKEEw6)**
 
@@ -54,8 +54,3 @@ types with different purpose.
 3. Unsupervised Augmentation
 4. GAN improvements
 
-## Section VII. Discussion
-Talks about accomplishments vs. challenges and potential paths forward
-
-## Section VIII. Conclusion
-Closing remarks
