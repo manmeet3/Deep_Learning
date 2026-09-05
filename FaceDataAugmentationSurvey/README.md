@@ -1,3 +1,7 @@
+# Face Data Augmentation — Literature Survey
+
+A literature review and presentation covering GAN-based approaches to face data augmentation, based on ["A Survey on Face Data Augmentation" (Wang, Wang & Lian, CloudMinds Technologies, 2019)](https://arxiv.org/abs/1904.11685). Prepared as a course project alongside the coursework in the rest of this repository.
+
 **[Video Presentation](https://youtu.be/XAHEYUh95ko)**
 
 **[Medium Article](https://link.medium.com/gBsAnKEEw6)**

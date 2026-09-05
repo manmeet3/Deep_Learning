@@ -1,36 +1,23 @@
-a) Implement (i) keras based models for classifying using CNN planet amazon data set 
+# Homework 3 (Graded) — Planet Amazon CNN Classification
 
- 
+A Keras CNN trained on the [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space) dataset, with TensorBoard instrumentation across multiple training runs.
 
-See https://colab.research.google.com/github/fastai/course-v3/blob/master/nbs/dl1/lesson3-planet.ipynb?authuser=1#scrollTo=-XOcH94uQjPM (Links to an external site.) (this implements pytorch) - I want keras model !! not pytorch - students will get zero points if they submit pytorch one) for more information.
+## Notebook
 
-Try out various hyper parameters. provide detailed comments in colab with various experiments. 
+[`Amazon_Data_Classification.ipynb`](Amazon_Data_Classification.ipynb) — loads the training/test imagery, builds and trains a CNN classifier (Keras, not PyTorch — required by the assignment), and iterates across several hyperparameter/architecture variations while logging to TensorBoard.
 
-Please implement from scratch and not copy
+## TensorBoard
 
-50% points will be to provide tensorboard integration and trying out various layers/activation functions/other hyperparams like optimizers - Please submit the tensorboard result to tensorboard.dev
+Six separate training runs' raw event logs are checked in under [`logs/`](logs) (one `train/` + `validation/` pair per run, timestamped `20200511-*`). A snapshot of the TensorBoard UI is saved as [`tensorboard.JPG`](tensorboard.JPG).
 
- 
+To view them locally:
 
-Resources for tensorboard integration :
+```bash
+tensorboard --logdir logs
+```
 
- 
+**Gap:** the assignment asked for the results to also be published to [tensorboard.dev](https://tensorboard.dev) for easy sharing — only the local event logs survive in this repo; no hosted link was committed.
 
-Watch :
-https://www.youtube.com/watch?v=xM8sO33x_OU (Links to an external site.)
+## Run it
 
-
-colab  : https://colab.sandbox.google.com/github/tensorflow/examples/blob/master/community/en/tensorboard/tf_dev_summit_2019.ipynb (Links to an external site.)
-
-
-
-
-https://www.tensorflow.org/tensorboard (Links to an external site.)
-
- 
-
-https://tensorboard.dev/ (Links to an external site.)
-
- 
-
-Deliverable : colab (with execution), tensorboard.dev link etc.,. put them all in a readme in directory in github and give me the link to the directory.
+Install from [`requirements.txt`](requirements.txt) (`keras`/`tensorflow`, TensorBoard). The notebook downloads/reads the Planet Amazon dataset directly — not included in this repo due to size.
